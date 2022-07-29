@@ -1,0 +1,25 @@
+#radha {
+    text-align: center;
+}
+
+div {
+    display: block;
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+    color: darkgreen;
+    font-size: 20px;
+}
+
+#ok {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 1200px;
+    height: 400px;
+    background-color: lightgray;
+    font-size: 20px;
+}

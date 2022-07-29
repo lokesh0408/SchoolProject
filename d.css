@@ -1,0 +1,67 @@
+#radha {
+    text-align: center;
+}
+
+div {
+    display: block;
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+    color: green;
+    font-size: 15px;
+}
+
+#kanhiya {
+    margin-left: 80px;
+    font-family: 'Times New Roman';
+    font-size: 17px;
+    font-weight: 200;
+}
+
+.kishore {
+    display: none;
+}
+
+.murari:hover ul .kishore {
+
+    display: block;
+
+}
+
+.loki {
+    display: none;
+}
+
+#lokesh:hover ul .loki {
+    display: block;
+}
+
+
+
+
+
+.natkhat {
+    display: none;
+}
+
+.mukund:hover ul .natkhat {
+    display: block;
+}
+
+.putra {
+    display: none;
+}
+
+#mata:hover ul .putra {
+    display: block;
+}
+
+.putri {
+    display: none;
+}
+
+#pita:hover .putri {
+    display: block;
+}

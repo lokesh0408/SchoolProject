@@ -1,0 +1,109 @@
+#ra {
+    text-align: center;
+}
+
+#loki {
+    display: block;
+    text-align: center;
+}
+
+a {
+    padding: 10px;
+    color: blue;
+}
+
+#c {
+    text-align: center;
+    padding: 0px;
+    /* margin-left: 500px; */
+}
+
+#d {
+    border: 2px solid darkgreen;
+    margin-left: 130px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+    margin-right: 180px;
+}
+
+.radha {
+    font-size: 13px;
+    line-height: 20px;
+    font-family: 'Times New Roman';
+    padding: 25px;
+}
+
+.govind {
+    cursor: pointer;
+}
+
+#murari {
+    border: 2px solid green;
+    text-align: center;
+    margin-left: 130px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+
+    margin-right: 180px;
+}
+
+.girdhari {
+    font-weight: 549;
+    font-size: 16px;
+    margin-left: 130px;
+
+
+    margin-right: 180px;
+}
+
+.op {
+    margin: 7px;
+    margin-left: 150px;
+    height: 250px;
+    width: 400px;
+    margin-top: 0px;
+}
+
+#bye {
+    margin-left: 130px;
+
+
+    margin-right: 180px;
+}
+
+#see {
+    margin-left: 130px;
+    font-size: 27px;
+}
+
+#ae {
+    margin-left: 130px;
+    margin-top: 0px;
+
+    margin-right: 180px;
+}
+
+#oe {
+    margin-left: 130px;
+    font-size: 27px;
+}
+
+#babu {
+    margin-left: 130px;
+    font-size: 27px;
+}
+
+#you {
+    margin-left: 130px;
+    margin-top: 0px;
+
+    margin-right: 180px;
+}
+
+#chitchor {
+    margin-left: 130px;
+    margin-top: 0px;
+
+    margin-right: 180px;
+}

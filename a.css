@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+#loki {
+    display: block;
+    text-align: center;
+    /* margin: auto;
+    width: 100px; */
+
+}
+
+.ab {
+    font-weight: 550;
+    line-height: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+#k {
+    margin: 80px, 200px;
+}
+
+.ok {
+    color: blue;
+    padding: 6px;
+}
